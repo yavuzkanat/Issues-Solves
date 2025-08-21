@@ -1,4 +1,4 @@
-# MYSQL Installation on SQL Developer For MACOS
+# SQL Developer Installation With MYSQL For MACOS (SOLVED)
 
 ## Step 1 :
 
